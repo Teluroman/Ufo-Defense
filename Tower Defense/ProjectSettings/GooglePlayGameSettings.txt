@@ -1,0 +1,9 @@
+lastUpgrade=00940
+proj.pluginVersion=0.9.40
+proj.AppId=228141128647
+and.BundleId=com.UFODefense
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e228141128647%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.UFODefense%3c%2fstring%3e%0d%0a++%3c%21--+achievement+First+of+many+--%3e%0d%0a++%3cstring+name%3d%22achievement_first_of_many%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Investment+--%3e%0d%0a++%3cstring+name%3d%22achievement_investment%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Crusher+--%3e%0d%0a++%3cstring+name%3d%22achievement_crusher%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Destroyer+--%3e%0d%0a++%3cstring+name%3d%22achievement_destroyer%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Obliterator+--%3e%0d%0a++%3cstring+name%3d%22achievement_obliterator%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Initiated+--%3e%0d%0a++%3cstring+name%3d%22achievement_initiated%22+translatable%3d%22false%22%3eCgkIx7eV8tEGEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
